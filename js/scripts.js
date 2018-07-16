@@ -11,4 +11,4 @@ const myBasemap = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 myBasemap.addTo(myMap);
 
 // Set view of the map
-myMap.setView([47.5724244, -123.0067472], 7);
+myMap.setView([47.281, -123.058], 8);
