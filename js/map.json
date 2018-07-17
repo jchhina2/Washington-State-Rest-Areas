@@ -8,6 +8,26 @@
       "name": "Gee Creek SB",
       "lat": 45.799147220,
       "long": -122.680607500
-    }
+    },
+    {
+      "name": "Toutle River NB",
+      "lat": 46.350905840,
+      "long": -122.904318984
+    },
+    {
+      "name": "Toutle River SB",
+      "lat": 46.352330280,
+      "long": -122.907977800
+    },
+    {
+      "name": "Scatter Creek",
+      "lat": 46.835349424,
+      "long:" -122.985250064
+    },
+    {
+      "name": "Maytown",
+      "lat": 46.871095577,
+      "long": -122.970358222
+    }  
   ]
 }
