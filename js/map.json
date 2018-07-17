@@ -28,6 +28,26 @@
       "name": "Maytown",
       "lat": 46.871095577,
       "long": -122.970358222
-    }  
+    },
+    {
+      "name": "SeaTac",
+      "lat":
+      "long":
+    },
+    {
+      "name": "Silver Lake",
+      "lat":
+      "long":
+    },
+    {
+      "name": "Smokey Point NB",
+      "lat":
+      "long":
+    },
+    {
+      "name": "Smokey Point SB",
+      "lat":
+      "long":
+    }             
   ]
 }
