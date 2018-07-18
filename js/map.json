@@ -31,23 +31,23 @@
     },
     {
       "name": "SeaTac",
-      "lat":
-      "long":
+      "lat": 47.271133531,
+      "long": -122.314556889
     },
     {
       "name": "Silver Lake",
-      "lat":
-      "long":
+      "lat": 47.902451004,
+      "long": -122.215572895
     },
     {
       "name": "Smokey Point NB",
-      "lat":
-      "long":
+      "lat": 48.168848575,
+      "long": -122.188868463
     },
     {
       "name": "Smokey Point SB",
-      "lat":
-      "long":
+      "lat": 48.169107740,
+      "long": -122.194277510
     }             
   ]
 }
