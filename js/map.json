@@ -22,22 +22,26 @@
     {
       "name": "Scatter Creek",
       "lat": 46.835349424,
-      "long": -122.985250064
+      "long": -122.985250064,
+      "comments": "Accessible only to Northbound traffic"
     },
     {
       "name": "Maytown",
       "lat": 46.871095577,
-      "long": -122.970358222
+      "long": -122.970358222,
+      "comments": "Accessible only to Southbound traffic"
     },
     {
       "name": "SeaTac",
       "lat": 47.271133531,
-      "long": -122.314556889
+      "long": -122.314556889,
+      "comments": "Accessible only to Northbound traffic"
     },
     {
       "name": "Silver Lake",
       "lat": 47.902451004,
-      "long": -122.215572895
+      "long": -122.215572895,
+      "comments": "Accessible only to Southbound traffic"
     },
     {
       "name": "Smokey Point NB",
@@ -62,7 +66,8 @@
     {
       "name": "Custer NB",
       "lat": 48.909127900,
-      "long": -122.622030442
+      "long": -122.622030442,
+      "comments": "For those crossing the border, I recommend stopping here as the border can have long wait times"
     },
     {
       "name": "Custer SB",
