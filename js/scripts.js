@@ -26,6 +26,7 @@ const restAreas = data.restAreas.map(restArea => {
   
   L.marker([restArea.lat, restArea.long]).bindPopup(`
       <h2>${restArea.name}</h2>
+      <p>Comments: ${restArea.comments}</p>
   `).openPopup().addTo(myMap);
   });
 }  
