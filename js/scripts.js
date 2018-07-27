@@ -20,7 +20,14 @@ request.open('GET', 'map.json', true);
 request.onload = function() {
   //Access the data
   const data = JSON.parse(this.response);
-}
+
+//Display the Rest Area points on the map
+const restAreas = data.restAreas.map(restArea => {
+  
+  L.marker([restArea.lat, restArea.long]).bindPopup(`
+      <h2>${restArea.name}</h2>
+  `).openPopup().addTo(myMap);
+  });
+}  
 
 request.send();
-  
