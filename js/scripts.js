@@ -15,7 +15,7 @@ myMap.setView([47.281, -123.058], 8);
 
 //Request the JSON data
 const request = new XMLHttpRequest();
-request.open('GET', 'map.json', true);
+request.open('GET', 'https://jchhina2.github.io/Washington-State-Rest-Areas/js/map.json', true);
              
 request.onload = function() {
   //Access the data
