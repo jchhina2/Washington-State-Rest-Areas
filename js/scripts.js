@@ -12,3 +12,15 @@ myBasemap.addTo(myMap);
 
 // Set view of the map
 myMap.setView([47.281, -123.058], 8);
+
+//Request the JSON data
+const request = new XMLHttpRequest();
+request.open('GET', 'map.json, true);
+             
+request.onload = function() {
+  //Access the data
+  const data = JSON.parse(this.response);
+}
+
+request.send();
+  
