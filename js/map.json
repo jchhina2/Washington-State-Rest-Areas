@@ -12,12 +12,14 @@
     {
       "name": "Toutle River NB",
       "lat": 46.350905840,
-      "long": -122.904318984
+      "long": -122.904318984,
+      "comments": "This Rest Area has a gender-neutral handicapped restroom"
     },
     {
       "name": "Toutle River SB",
       "lat": 46.352330280,
-      "long": -122.907977800
+      "long": -122.907977800,
+      "comments": "This Rest Area has a gender-neutral handicapped restroom"
     },
     {
       "name": "Scatter Creek",
