@@ -1,6 +1,13 @@
 // Set the map variable
 const myMap = L.map('map');
 
+//Add restroom logo
+const restroomIcon = L.icon({
+      iconUrl: 'https://jchhina2.github.io/Washington-State-Rest-Areas/images/restroom-logo.png',
+      shadowUrl: '',
+      iconSize: [50,50]
+});
+
 // Load the basemap
 const myBasemap = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
