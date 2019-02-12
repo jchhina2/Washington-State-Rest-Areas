@@ -5,7 +5,7 @@ const myMap = L.map('map');
 const restroomIcon = L.icon({
       iconUrl: 'https://jchhina2.github.io/Washington-State-Rest-Areas/images/restroom-logo.png',
       shadowUrl: '',
-      iconSize: [50, 50]
+      iconSize: [30, 30]
 });
 
 // Load the basemap
