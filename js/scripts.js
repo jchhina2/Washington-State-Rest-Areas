@@ -31,7 +31,9 @@ request.onload = function() {
 //Display the Rest Area points on the map
 const restAreas = data.restAreas.map(restArea => {
   
-  L.marker([restArea.lat, restArea.long]).bindPopup(`
+  L.marker([restArea.lat, restArea.long], {
+      icon: restroomIcon
+  }).bindPopup(`
       <h2>${restArea.name}</h2>
       <p>Comments: ${restArea.comments}</p>
   `).openPopup().addTo(myMap);
